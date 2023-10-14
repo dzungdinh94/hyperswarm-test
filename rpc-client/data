@@ -1,0 +1,48 @@
+
+hyperbee
+
+
+dht-seedˆ{"type":"Buffer","data":[139,238,63,112,120,138,17,209,70,16,12,221,93,194,185,34,68,173,12,99,64,194,210,1,163,210,231,138,43,1,59,61]}
+
+
+$auction:Pic#1:seller#1:1697293756544K{"itemId":"Pic#1","sellerId":"seller#1","startingPrice":75,"status":"open"}
+
+
+$auction:Pic#2:seller#2:1697293756550K{"itemId":"Pic#2","sellerId":"seller#2","startingPrice":65,"status":"open"}
+
+
+Hbid:678e51ceff6edd55f122ce4d088192f5:75:4487c8e113e36b462f1d695173aa29c2|{"auctionId":"678e51ceff6edd55f122ce4d088192f5","bidderId":"4487c8e113e36b462f1d695173aa29c2","amount":75,"status":"active"}
+	
+
+Jbid:678e51ceff6edd55f122ce4d088192f5:75.5:507e358af6a23dfbfe882077a52d6c23~{"auctionId":"678e51ceff6edd55f122ce4d088192f5","bidderId":"507e358af6a23dfbfe882077a52d6c23","amount":75.5,"status":"active"}
+
+
+
+Hbid:678e51ceff6edd55f122ce4d088192f5:80:22e34de95b0990560b611f2485015bd9|{"auctionId":"678e51ceff6edd55f122ce4d088192f5","bidderId":"22e34de95b0990560b611f2485015bd9","amount":80,"status":"active"}
+
+	
+$auction:Pic#1:seller#1:1697294639691K{"itemId":"Pic#1","sellerId":"seller#1","startingPrice":75,"status":"open"}
+
+
+
+$auction:Pic#2:seller#2:1697294639696K{"itemId":"Pic#2","sellerId":"seller#2","startingPrice":65,"status":"open"}
+
+	
+		
+
+
+
+	Hbid:92534b960628a53c61ddc2102c0b2784:75:c9b2d3897e8141671d835dd9742c2f56|{"auctionId":"92534b960628a53c61ddc2102c0b2784","bidderId":"c9b2d3897e8141671d835dd9742c2f56","amount":75,"status":"active"}
+
+	
+	
+
+
+
+	Jbid:92534b960628a53c61ddc2102c0b2784:75.5:f1953eb80bdba989fc64781b386b4eff~{"auctionId":"92534b960628a53c61ddc2102c0b2784","bidderId":"f1953eb80bdba989fc64781b386b4eff","amount":75.5,"status":"active"}
+
+	
+	
+
+
+	Hbid:92534b960628a53c61ddc2102c0b2784:80:e1c092e8d109083545bf1b19044a20d7|{"auctionId":"92534b960628a53c61ddc2102c0b2784","bidderId":"e1c092e8d109083545bf1b19044a20d7","amount":80,"status":"active"}
